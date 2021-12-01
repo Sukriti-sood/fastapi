@@ -1,0 +1,2 @@
+# fastapi
+Exploring fastapi framework
